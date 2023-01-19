@@ -21,7 +21,7 @@ class UseCaseService2Test {
     }
 
     @Test
-    fun testUseCase1() {
+    fun testUseCase2() {
         // Given
         whenever(reusedService.reusableMethod()).thenReturn("reused result")
 

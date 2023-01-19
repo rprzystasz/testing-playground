@@ -19,7 +19,7 @@ class UseCaseService3Test {
     }
 
     @Test
-    fun testUseCase1() {
+    fun testUseCase3() {
         // When
         val result = useCaseService3.useCaseService3()
 

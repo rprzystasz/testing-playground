@@ -2,15 +2,8 @@ package mockless
 
 import MainFacade
 import MainFacadeConfiguration
-import UseCaseService1
-import UseCaseService2
-import UseCaseService3
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
-import org.mockito.Mockito.mock
-import org.mockito.kotlin.times
-import org.mockito.kotlin.verify
-import org.mockito.kotlin.whenever
 import kotlin.test.assertEquals
 
 class MainFacadeTest {
