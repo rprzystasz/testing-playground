@@ -1,4 +1,4 @@
-package mockinghell
+package mockful
 
 import MainFacade
 import UseCaseService1

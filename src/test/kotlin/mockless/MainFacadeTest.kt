@@ -8,7 +8,7 @@ import kotlin.test.assertEquals
 
 class MainFacadeTest {
 
-    lateinit var mainFacade: MainFacade
+    private lateinit var mainFacade: MainFacade
 
     @BeforeEach
     fun setup() {

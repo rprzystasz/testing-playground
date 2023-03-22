@@ -1,13 +1,8 @@
-package mockinghell
+package mockful
 
-import ReusedService
 import UseCaseService3
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
-import org.mockito.Mockito.mock
-import org.mockito.kotlin.times
-import org.mockito.kotlin.verify
-import org.mockito.kotlin.whenever
 import kotlin.test.assertEquals
 
 class UseCaseService3Test {
